@@ -1,0 +1,4 @@
+scholarly
+pandas
+numpy
+matplotlib
